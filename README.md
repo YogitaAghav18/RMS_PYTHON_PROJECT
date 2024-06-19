@@ -1,5 +1,6 @@
 RMS_PYTHON_PROJECT(RESTAURANT MANAGEMENT SYSTEM) -:
-############################################################
+
+
 
 ## INTRODUCTION-
 
