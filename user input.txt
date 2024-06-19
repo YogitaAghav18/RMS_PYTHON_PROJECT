@@ -1,0 +1,3 @@
+MOONLIGHT CAFE
+Instant Coffee,Black Coffee,Latte,Americano,Mocca,Cappuccino,Kopi Luwak,Cheese Sandwich,Tuna Sandwich,Fish And Chips,Chocolate cake,Strawberry Mousse,Red Velvet Cake,Cheese Cake
+80,90,120,130,150,200,300,80,90,120,130,150,200,300
